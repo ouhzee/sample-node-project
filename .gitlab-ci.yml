@@ -1,0 +1,4 @@
+include:
+  - project: devsecops-blueprint-example/pipeline-template
+    file: language/nodejs/workflow.yml
+
